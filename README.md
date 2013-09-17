@@ -11,9 +11,9 @@ At: http://blog.sheasilverman.com/pimame-raspberry-pi-os-download/
 
 GPIO Control Python Script used or we tried to use
 
-Universal GPIO keyboard daemon By mmoller2k At :https://github.com/mmoller2k/pikeyd
+Universal GPIO keyboard daemon By mmoller2k At : https://github.com/mmoller2k/pikeyd
 
-
+Raspberry Pi GPIO Joystick By Chris Swan At : https://github.com/tuomasjjrasanen/python-uinput and http://blog.thestateofme.com/2012/08/10/raspberry-pi-gpio-joystick/
 
 
 
