@@ -1,6 +1,6 @@
 GPIO Control Python Script For Mame For Raspberry Pi 
 
-All Work is Protected Under Creative Commons : Attribution-NonCommercial-ShareAlike 3.0 Unported : http://creativecommons.org/licenses/by-nc-sa/3.0/
+All Work/changes is Protected Under Creative Commons : Attribution-NonCommercial-ShareAlike 3.0 Unported : http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 picade_GPIO_Button_Python_script_and_other_stuff-Made_At_BAASFC by Bangor Academy and Six Form Collage is licensed
 under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
